@@ -62,11 +62,15 @@ This project implements a robust Breast Cancer Prediction system using both **Ma
 
 Breast cancer predictor/
 │
-├── models/
+
+
+-├── models/
 │   ├── final_model.pkl
 │   └── scaler.pkl
 │
-├── app.py
+
+
+-├── app.py
 ├── README.md
 └── breast-cancer.csv
 
