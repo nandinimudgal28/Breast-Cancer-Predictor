@@ -60,10 +60,28 @@ This project implements a robust Breast Cancer Prediction system using both **Ma
   - Confidence score in %
 - Run locally via:
 
-```bash
-streamlit run app.py
+Breast cancer predictor/
+│
+├── models/
+│   ├── final_model.pkl
+│   └── scaler.pkl
+│
+├── app.py
+├── README.md
+└── breast-cancer.csv
+
+## Future Enhancements
+-CSV batch upload and result download
+-Auto PDF report generation
+-Deployment on Hugging Face or Streamlit Cloud
+
 
 ![image](https://github.com/user-attachments/assets/4002d218-05a9-410e-bfd7-da2476aa1b19)
 
 ![image](https://github.com/user-attachments/assets/ad8a48b7-4904-480a-bec2-105b2edd381b)
+
+
+```bash
+streamlit run app.py
+
 
