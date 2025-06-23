@@ -62,3 +62,8 @@ This project implements a robust Breast Cancer Prediction system using both **Ma
 
 ```bash
 streamlit run app.py
+
+![image](https://github.com/user-attachments/assets/4002d218-05a9-410e-bfd7-da2476aa1b19)
+
+![image](https://github.com/user-attachments/assets/ad8a48b7-4904-480a-bec2-105b2edd381b)
+
