@@ -71,9 +71,14 @@ Breast cancer predictor/
 └── breast-cancer.csv
 
 ## Future Enhancements
+
 -CSV batch upload and result download
+
 -Auto PDF report generation
+
 -Deployment on Hugging Face or Streamlit Cloud
+
+
 
 
 ![image](https://github.com/user-attachments/assets/4002d218-05a9-410e-bfd7-da2476aa1b19)
